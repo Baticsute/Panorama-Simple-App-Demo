@@ -8,21 +8,21 @@
 #
 # Input image example :
 #
-![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Test%20Images/1Hill.JPG)
+![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/TestImages/1Hill.JPG)
 #
-![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Test%20Images/2Hill.JPG
+![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/TestImages/2Hill.JPG
 #
-![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Test%20Images/3Hill.JPG)
+![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/TestImages/3Hill.JPG)
 #
 # Output image :
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Results/HillPano1.png)
 #
 # Input image example :
-![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Test%20Images/test1.jpg)
+![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/TestImages/test1.jpg)
 #
-![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Test%20Images/test2.jpg)
+![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/TestImages/test2.jpg)
 #
-![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Test%20Images/test3.jpg)
+![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/TestImages/test3.jpg)
 #
 # Output image :
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Results/switzerlandPano2.png)

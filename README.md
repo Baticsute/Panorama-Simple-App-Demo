@@ -2,7 +2,7 @@
 # Python Language + Qt Designer for UI .
 # Using OpenCV Library , PyQT5 for UI , imutils ( resize image ) 
 # UI :
-![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Results/panoramaUI.png)
+![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/blob/master/test.png)
 # Click " + " Button to add your image like the picture below :
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/tree/master/Results/PanoramaUser.png)
 #

@@ -6,7 +6,7 @@
 # Click " + " Button to add your image like the picture below :
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/blob/master/Results/PanoramaUser.png)
 #
-# Input image example :
+# Input images example :
 #
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/blob/master/TestImages/1Hill.JPG)
 #
@@ -17,7 +17,7 @@
 # Output image :
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/blob/master/Results/HillPano1.png)
 #
-# Input image example :
+# Input images example :
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/blob/master/TestImages/test1.jpg)
 #
 ![alt text](https://github.com/Baticsute/Panorama-Simple-App-Demo/blob/master/TestImages/test2.jpg)
